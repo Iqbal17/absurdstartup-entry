@@ -53,17 +53,29 @@ and delivers the joke. No word removed without losing either specificity
 or the business case, so the sentence stands as drafted. Hand-counted
 length: 165 characters, one sentence, within the 1-200 gate.
 
-FINAL ENTRY (165 characters):
+REVISION (fix agent, one focused pass — kit check failed only
+thinking_revised): the closing clause was reworked so the price lands on
+the punchline instead of sitting mid-sentence. "billed $4 a month to
+managers who need a warm body on camera" became "for managers who pay
+$4 a month for a warm body on camera": the buyer now literally PAYS for
+a warm body, which sharpens criterion 3 (business sense — revenue and
+buyer are now the same clause) and criterion 5 (the joke ends on the
+transaction, not on a need). The pitch itself — Zoom standups, the nod,
+the single "sounds good" — is untouched. Correction noted: the original
+hand-count said 165 characters but a recount gives 164; the revised
+sentence below was counted word by word at 161 characters.
+
+FINAL ENTRY (161 characters):
 "Our agents attend your Zoom standups, nod at the right slides, and say
-'sounds good' once per meeting, billed $4 a month to managers who need
-a warm body on camera."
+'sounds good' once per meeting, for managers who pay $4 a month for a
+warm body on camera."
 """
 
 import os
 
 ENTRY = (
     "Our agents attend your Zoom standups, nod at the right slides, and say "
-    "'sounds good' once per meeting, billed $4 a month to managers who need "
+    "'sounds good' once per meeting, for managers who pay $4 a month for "
     "a warm body on camera."
 )
 

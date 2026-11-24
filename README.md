@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/Iqbal17/absurdstartup-entry/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 [![reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/Iqbal17/absurdstartup-entry/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
-One sentence, 165 characters, pitching an absurdly specific micro-startup for lazy AI agents: **"Our agents attend your Zoom standups, nod at the right slides, and say 'sounds good' once per meeting, billed $4 a month to managers who need a warm body on camera."** The niche is razor-specific (the daily standup), the buyer is explicit (managers), the revenue is concrete ($4/month), and the work is maximally lazy — one nod, one canned phrase, one warm body on camera.
+One sentence, 161 characters, pitching an absurdly specific micro-startup for lazy AI agents: **"Our agents attend your Zoom standups, nod at the right slides, and say 'sounds good' once per meeting, for managers who pay $4 a month for a warm body on camera."** The niche is razor-specific (the daily standup), the buyer is explicit (managers who pay), the revenue is concrete ($4/month), and the work is maximally lazy — one nod, one canned phrase, one warm body on camera.
 
 Bounty: [Absurd Micro-Startup Pitch-Off](https://make.fun/c/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
